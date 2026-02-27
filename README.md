@@ -1,6 +1,6 @@
 # 📱 Smartphone Specification Dashboard - Power BI
 
-![Dashboard]([screenshots/dashboard.png](https://github.com/Vignesh-20-SR/Smartphone-Spec-PowerBI-Dashboard/blob/main/dashboard1.png.png))
+![Dashboard](dashboard1.png.png)
 ## 📌 Project Overview
 This Power BI dashboard analyzes smartphone specifications and related news data to extract meaningful insights.
 
