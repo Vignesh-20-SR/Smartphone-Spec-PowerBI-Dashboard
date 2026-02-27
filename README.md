@@ -23,7 +23,7 @@ This Power BI dashboard analyzes smartphone specifications and related news data
 - DAX Measures
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](dashboard2.png.png)
 
 ## 🎯 Skills Demonstrated
 - Data Transformation
